@@ -1,0 +1,41 @@
+# x = "Hello World!"
+# print(type(x))
+
+# y = 50
+# print(type(y))
+
+# z = 50.8
+# print(type(z))
+
+# e = 1j+6
+# print(type(e))
+
+# a = ["apple", "banana", "mango"]
+# print(type(a))
+
+# b = ("apple", "mango", "guava")
+# print(type(b))
+
+# c = range(6)
+# print(type(c))
+
+# d ={"apple", "mango", "Cherry"}
+# print(type(d))
+
+# f = frozenset ({"apple", "mango", "banana"})
+# print(type(f))
+
+# g = True
+# print(type(g))
+
+# h = b"Hello"
+# print(type(h))
+
+# i = bytearray(5)
+# print(type(i))
+
+# j = memoryview(bytes(5))
+# print(type(i))
+
+# k = None
+# print(type(k))

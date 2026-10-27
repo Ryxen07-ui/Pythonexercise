@@ -1,0 +1,196 @@
+# #name = input("Enter your name :")
+# #print("Username :", name)
+# #age = int(input("Enter your age :"))
+# #print("Age:", age)
+# #print(type(name))
+# #print(type(age))
+
+
+# #type casting
+# age = 20
+# age = str(age)
+# print(age)
+# print(type(age))
+
+# Value = 2.5
+# Value = int(Value)
+# print(Value)
+# print(type(Value))
+
+# Amount = 30
+# Amount = float(Amount)
+# print(Amount)
+# print(type(Amount))
+
+# Storage = "256MB"
+# Storage = bool(Storage)
+# print(Storage)
+# print(type(Storage))
+
+# a = 50 
+# b = 30
+# print(a+b)
+
+# c = 100
+# d = 50
+# print(c-d)
+
+# e = 50
+# f = 2
+# print(e/f)
+
+# g = 2
+# print(2 **g)
+
+# Value = 100
+# Cost = 50
+# print((Value+Cost)-100)
+
+#Value = 100
+#Cost = 50
+#print(Value > Cost)
+
+# Marks = 50
+
+# if Marks > 50:
+#     print("You have successfully passed the exam")
+# else:
+#     print("You have failed the exam")
+
+#Age Check 
+
+# age = 18
+
+# if age >= 18:
+#     print("You're an adult")
+# else:
+#     print("You're a child")
+
+# #pass or fail
+
+# Mark = 40 
+
+# if Mark < 50:
+#     print("Pass")
+# else:
+#     print("Fail")
+
+# #Even or Odd
+ 
+# Number = 6
+
+# if Number %2 == 0:
+#     print("Even")
+# else:
+#     print("Odd")
+
+# #Password Check 
+
+# Password = input("Enter the passwrod:")
+
+# if Password == ("python123"):
+#     print("Login Successful")
+# else:
+#     print("Wrong Password") 
+
+#Exam Grade (1)
+
+
+Mark = int(input("Enter the marks : "))
+
+if Mark >= 90:
+    print("Grade A")
+elif Mark >= 80:
+    print("Grade B")
+elif Mark >= 70:
+    print("Grade C")
+elif Mark >= 60:
+    print("Grade D")
+elif Mark >= 40:
+    print("Grade E")
+else:
+    print("Fail")
+
+
+#Game Score (2)
+
+Score = int(input("Enter Game Score : "))
+
+if Score >= 1000:
+    print("Diamond")
+elif Score >= 700:
+    print("Gold")
+elif Score >= 500:
+    print("Silver")
+elif Score >= 300:
+    print("Bronze")
+elif Score >= 100:
+    print("Beginner")
+else:
+    print("New Player")
+
+# Battery Percentage (3)
+
+BTTpercentage = int(input("Enter Battery Percentage : "))
+
+if BTTpercentage >= 90:
+    print("Full")
+elif BTTpercentage >= 70:
+    print("High")
+elif BTTpercentage >= 50:
+    print("Medium")
+elif BTTpercentage >= 30:
+    print("Low")
+elif BTTpercentage >= 10:
+    print("Very Low")
+else:
+    print("Critical")
+
+#Traffic Light (4)
+
+TrafficLC = str(input("Enter the traffic light color : "))
+
+if TrafficLC == "Red":
+    print("Stop")
+elif TrafficLC == "Yellow":
+    print("Get Ready")
+elif TrafficLC == "Green":
+    print("Go")
+else:
+    print("Unknow Color")
+
+#Favorite Food (5)
+
+FBfood = input("Enter your favorite food : ")
+
+if FBfood == "pizza":
+    print("You like Pizza")
+elif FBfood == "burger":
+    print("You like Burger")
+elif FBfood == "noodles":
+    print("You like Noodles")
+elif FBfood == "rice":
+    print("You like Rice")
+elif FBfood == "ice cream":
+    print("You like Ice Cream")
+else:
+    print("Food not listed")
+
+#Programming Language (6)
+
+ProLanguage = input("Enter a programming language : ")
+
+if ProLanguage == "python":
+    print("Great for Beginners")
+elif ProLanguage == "dart":
+    print("Used for Flutter Development")
+elif ProLanguage == "javascript":
+    print("Used for Web Development")
+elif ProLanguage == "rust":
+    print("Focused on Performance and Safety")
+elif ProLanguage == "java":
+    print("Used for many Applications")
+else:
+    print("Language not listed")
+
+    

@@ -1,0 +1,41 @@
+# List = ["Green Apple"," Apple ", "Orange"]
+# print(List[2])
+
+# lists = ["Apple", "Orange", "Cherry"]
+# print(len(lists))
+
+# List1 = ["Apple", "Banana", "Guava"]
+# List2 = [1 , 2 , 3 , 4 , 5]
+# List3 = ["Apple", 2 , True]
+# print(len(List2))
+
+# Thislist = list(("Apple", "Orange", "Banana"))
+# print(Thislist)
+# print(type(Thislist))
+
+# Thislist = ["Apple", "Orange", "Banana"]
+# print(len(Thislist))
+
+# Thislists = ["Apple", "Orange", "Banana", "Cherry", "Guava", "Green Apple"]
+# print(Thislists[3:5]
+
+# Thislists = ["Apple", "Banana", "Guava"]
+# Thislists[2] = "Cherry"
+# print(Thislists)
+
+# thislists = ["Guava", "Banana", "Apple", "Cherry"]
+# thislists[1:4] = ["Orange", "Green Apple"]
+# print(thislists)
+
+# thislists = ["Banana", "Green Apple", "Cherry", "Apple"]
+# thislists[0:3] = ["Blueberry", "Guava", "Fruits", "Strawberry"]
+# print(thislists)
+
+# thislists=["Cherry", "Blueberry", "Green Apple"]
+# thislists[0:-2] = ["Apple", "Guava", "Watermaloon"]
+# print(thislists)
+
+# thislists = ["Cherry", "Banana", "Greenapple", "Apple"]
+# thislists.insert (-3, "Guava")
+# print(thislists)
+

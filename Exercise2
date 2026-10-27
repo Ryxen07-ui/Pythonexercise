@@ -1,0 +1,131 @@
+#1. Student Registration System 
+name = "Zaw Zaw"
+age = 17
+grade = 5
+height = 4.5
+is_enrolled = True
+print('Student Name:',name)
+print("Student Age:",age)
+print('Student Height:',height)
+print(is_enrolled) 
+
+
+#2. Shopping at a Store 
+ProductName= "Apple"
+Productprice= 1.8
+quantity=10
+is_available=True
+print('Product Name:',ProductName)
+print('Product Price:',Productprice)
+print('Product Quantity:',quantity)
+print(is_available)
+
+
+#3. Restaurant Order
+Customername="Mg Mg"
+Foodname= "Pasta" 
+Numberofplatesordered= 50
+Priceperplate= 2.8
+is_takeaway=True
+print("Customer name:",Customername)
+print("Food name:",Foodname)
+print("Number of plates order:",Numberofplatesordered)
+print("Price plate:",Priceperplate)
+print(is_takeaway)
+
+
+#4. Mobile Phone Information
+PhoneBrand = "Oppo"
+PhoneModel = "Oppo F7"
+PhonePrice = 40.78
+Batterypercentage = 98
+Wifiis_available= True 
+print("Phone Brand:", PhoneBrand)
+print("Phone Model:", PhoneModel)
+print("Phone Price:", PhonePrice)
+print("Phone's Battery Percentage:", Batterypercentage)
+print(Wifiis_available)
+
+
+#5. Personal Profile 
+Fullname = " Joshua Wink"
+age = 20
+city = "Miami"
+Favoritesubject = "IT, and English"
+Dailystudyhours = 5
+is_enjoycoding = True
+print("Full name:",Fullname)
+print("Age:", age)
+print("City:", city)
+print("Favorite Suject:", Favoritesubject)
+print("Daily Study Hours:", Dailystudyhours)
+print(is_enjoycoding)
+
+
+#6. School Information
+Schoolname = "B.E.H.S(3)"
+numberofstudnets = 50
+numberofteachers = 25
+schoolrating = 5.6
+Has_computerlab = True
+print("School Name:", Schoolname)
+print("Number of Students:", numberofstudnets)
+print("Number of Teachers:", numberofteachers)
+print("School Rating:", schoolrating)
+print(Has_computerlab)
+
+
+#7. Movie Information
+MovieTitle = "Caught me if you can"
+Releaseyear = 2000
+Moviedurationinhours = "4hrs10mins"
+Ticketprice = 8.9
+Recommend_movie = True
+print("Movie Title:", MovieTitle)
+print("Release Year:", Releaseyear)
+print("Movie Duration In hours:", Moviedurationinhours)
+print("Ticket Price:", Ticketprice)
+print(Recommend_movie)
+
+
+#8. Gaming Profile
+Playername = "Ryzen"
+Level = 15
+Totalscore = 8.9
+Playinghoursperday = "1hrs36mins"
+theplayer_isonline = True
+print("Player Name:", Playername)
+print("Player Level:", Level)
+print("Total Score:", Totalscore)
+print("Playing In Hours per Day:", Playinghoursperday)
+print(theplayer_isonline)
+
+
+#9. Computer Information
+ComputerBrand = "MSI"
+RAM = 8
+CapacityinGB = 16
+StoragecapacityinGB = 512
+ComputerPrice = 55.8
+thecomputer_isturnon = True
+print("Computer Brand:", ComputerBrand)
+print("RAM:", RAM)
+print("Capacity in GB:", CapacityinGB)
+print("Storage capacity in GB:", StoragecapacityinGB)
+print("Computer Price:", ComputerPrice)
+print(thecomputer_isturnon)
+
+
+#10. Online Course Registration
+Studentname = "David Kyaw"
+Coursename = "International Business Course"
+Age = 20
+CourseFee = 5.6
+Learninghoursperweek = "5hrs30mins"
+Payment_iscompleted = True
+print("Studnet Name:", Studentname)
+print("Course Name:", Coursename)
+print("Studnet Age:", Age)
+print("Course Fee:", CourseFee)
+print("Learning Hours Per Week:", Learninghoursperweek)
+print(Payment_iscompleted)
